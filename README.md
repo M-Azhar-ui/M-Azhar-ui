@@ -10,9 +10,7 @@
 
 - 📫 How to reach me **azharmalik4444@gmail.com**
  <p>📧 Email: <strong>azharmalik4444@gmail.com</strong></p>
-        <p>📞 Phone: <strong>+923055747289</strong></p>
-        <p>🏠 Address: <strong>Gujranwala, Pakistan. 52250</strong></p>
-        <p>📅 Date of Birth: <strong>May 20th, 1997</strong></p>
+        <p>🏠 Address: <strong>Pakistan</strong></p>
         <p>Gender: <strong>Male</strong></p>
         <h2>Education</h2>
         <ul>
